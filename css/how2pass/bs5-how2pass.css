@@ -10735,7 +10735,7 @@ textarea.form-control-lg {
 	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7) !important;
 }
 
-[hidden="true"] {
+*[hidden="true"] {
   display: none !important;
 }
 
