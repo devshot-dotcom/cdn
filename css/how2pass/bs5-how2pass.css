@@ -10735,6 +10735,10 @@ textarea.form-control-lg {
 	box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7) !important;
 }
 
+[hidden="true"] {
+  display: none !important;
+}
+
 /* Gradients. */
 .gr-mycolorlight {
   background: #d3d3de;
@@ -10817,5 +10821,3 @@ textarea.form-control-lg {
 .gr-winterneva {
   background-image: linear-gradient(120deg, #a1c4fd 0, #c2e9fb 100%);
 }
-
-/* sourceMappingURL=bs5-how2pass.css.map */
