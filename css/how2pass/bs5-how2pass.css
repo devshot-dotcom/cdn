@@ -11078,7 +11078,7 @@ h6,
   margin: 0 !important;
 }
 
-*[hidden="true"] {
+[hidden="true"] {
   display: none !important;
 }
 
